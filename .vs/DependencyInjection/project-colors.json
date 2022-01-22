@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e55cca45-4b75-4e03-b17e-e65aa4a59c30": {
+      "ProjectGuid": "e55cca45-4b75-4e03-b17e-e65aa4a59c30",
+      "DisplayName": "DependencyInjection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
